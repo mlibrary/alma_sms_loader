@@ -1,4 +1,8 @@
-# Alma SMS Loader
+# Alma SMS Loader - Archived
+
+This was for using the Alma API to make a bulk change to SMS numbers. Since MLibrary has migrated to Alma this is not longer needed.
+
+---
 
 One off script for loading sms numbers into alma and making them internal segments
 
